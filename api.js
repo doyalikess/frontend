@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://rsfpper-1-4g28.onrender.com/api/auth/',  // Correct ngrok URL with ".app"
+  baseURL: 'https://rsfpper-1-4g28.onrender.com',  // Correct ngrok URL with ".app"
   timeout: 10000,
 });
 
