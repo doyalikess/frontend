@@ -1,0 +1,6 @@
+"dependencies": {
+  "react": "^18.x.x",
+  "react-dom": "^18.x.x",
+  "react-scripts": "5.0.1"  // or the version you use
+  // other dependencies
+}
