@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://rsfpper-1-4g28.onrender.com/api/auth',  // Replace with your backend URL
+  baseURL: 'https://rsfpper-1-4g28.onrender.com/api',  // Replace with your backend URL
   timeout: 10000,
 });
 
